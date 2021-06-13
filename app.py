@@ -74,7 +74,7 @@ app.layout = html.Div([
             )
         ]),
         html.Div([
-            html.Img(src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F516436282245682102%2F&psig=AOvVaw2wZ4ksBZJtYw4a9Aarjfps&ust=1623663505894000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDx95molPECFQAAAAAdAAAAABAD",
+            html.Img(src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema-650x366.png",
                      style={"width": "100px"}),
             html.H2(
                 id='twitch-visit',
