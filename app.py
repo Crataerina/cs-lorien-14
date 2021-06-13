@@ -255,7 +255,7 @@ def update_figures(start_date_selected, end_date_selected, social_networks_selec
         }
     )
 
-    return total_visit, facebook_visit, instagram_visit, twitter_visit, twitch-visit, total_visit_fig, total_visit_social_network_fig, world_map_fig, devices_pie_fig
+    return total_visit, facebook_visit, instagram_visit, twitter_visit, twitch_visit, total_visit_fig, total_visit_social_network_fig, world_map_fig, devices_pie_fig
 
 
 if __name__ == '__main__':
